@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0A8DCCF441CD9F82A1F69FB5AE34F2E7",
+	"FriendlyName": "Death Count Display",
+	"Description": "This mod adds a visual indicator for your current player's deaths!&cf_ugcID=1264390",
+	"Category": "UGC",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "https://legacy.curseforge.com/ark-survival-ascended/mods/death-count-display",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ExplicitlyLoaded": true
+}
